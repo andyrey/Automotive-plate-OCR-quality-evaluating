@@ -1,0 +1,84 @@
+Compare/1_.txt versus Compare/1_gt.txt
+g.t. E371Eo35 read as E371Eo35
+g.t. aligned:  E371EO35
+ocr   aligned: E371EO35
+error: 0
+
+Compare/2_.txt versus Compare/2_gt.txt
+g.t. B797TA35 read as B797TA35
+g.t. aligned:  B797TA35
+ocr   aligned: B797TA35
+error: 0
+
+Compare/3_.txt versus Compare/3_gt.txt
+g.t. E586EB35 read as 5586EB35
+g.t. aligned:  E586EB35
+ocr   aligned: 5586EB35
+error: 1
+
+Compare/4_.txt versus Compare/4_gt.txt
+g.t. B446KX35 read as B446KX35
+g.t. aligned:  B446KX35
+ocr   aligned: B446KX35
+error: 0
+
+Compare/5_.txt versus Compare/5_gt.txt
+g.t. T666TT36 read as T666TT36
+g.t. aligned:  T666TT36
+ocr   aligned: T666TT36
+error: 0
+
+Compare/6_.txt versus Compare/6_gt.txt
+g.t. T410TE35 read as ?70???5
+g.t. aligned:  T410TE35
+ocr   aligned: ?7-0???5
+error: 4
+
+Compare/7_.txt versus Compare/7_gt.txt
+g.t. A952YT35 read as A952YT35
+g.t. aligned:  A952YT35
+ocr   aligned: A952YT35
+error: 0
+
+Compare/8_.txt versus Compare/8_gt.txt
+g.t. Y219AB150 read as Y219AB150
+g.t. aligned:  Y219AB150
+ocr   aligned: Y219AB150
+error: 0
+
+Compare/9_.txt versus Compare/9_gt.txt
+g.t. M631MX177 read as M631MX197
+g.t. aligned:  M631MX177
+ocr   aligned: M631MX197
+error: 1
+
+Compare/10_.txt versus Compare/10_gt.txt
+g.t. Y954KM177 read as Y954KM177
+g.t. aligned:  Y954KM177
+ocr   aligned: Y954KM177
+error: 0
+
+Compare/11_.txt versus Compare/11_gt.txt
+g.t. M301AC177 read as M301AC177
+g.t. aligned:  M301AC177
+ocr   aligned: M301AC177
+error: 0
+g.t. H021oK77 read as H021oK77
+g.t. aligned:  H021OK77
+ocr   aligned: H021OK77
+error: 0
+g.t. K021ET199 read as K021ET199
+g.t. aligned:  K021ET199
+ocr   aligned: K021ET199
+error: 0
+g.t. H363oo150 read as H363oo10
+g.t. aligned:  H363OO150
+ocr   aligned: H363OO1-0
+error: 1
+
+SUMMARY:
+plates detected 14 from 14
+overall  errors in OCR 7 of 118 symbols - accuracy 94.0678%
+plates read with at least one error 4 from all 14 detected 
+ accuracy above detected & read:  71.4286%
+ accuracy above all ground truth: 71.4286%
