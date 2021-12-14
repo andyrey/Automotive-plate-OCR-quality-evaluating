@@ -1,5 +1,6 @@
 # Automotive-plate-OCR-quality-evaluating
-This program works with set of pairs of .txt files- one is detection&amp;OCR program results versus that of ground truth. Each txt file contain readings of all car's plates as string-by-string. Number of file pairs as many, as number of tested images. Program, working with images, is not here.
+This program works with set of pairs of .txt files- one is detection&OCR program results versus that of ground truth. Each txt file contain readings of all car's plates as string-by-string. Number of file pairs as many, as number of tested images. Program, working with images, is not here.
+As a matter of the fact, this program uses Edit Distanse algorithm from Dynamic Programming and can compare any letter-digit string pairs, put fines for any deletion or insertion,align them, and evaluate number of errors while OCR.
 
 Программа Automotive plate OCR quality evaluating предназначена для автоматической оценки
 качества чтения плат автомобильных госномеров, работает только с набором текстовых файлов.
